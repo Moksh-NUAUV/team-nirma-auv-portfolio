@@ -28,7 +28,7 @@ I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, 
 
 ## 📸 Highlights
 ![Team](assets/team-photo.jpg)
-
+![Team](assets/amurovs-24-team.jpg)
 ---
 
 ## 🧠 Tools & Tech
