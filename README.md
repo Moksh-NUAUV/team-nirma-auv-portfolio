@@ -15,13 +15,25 @@ I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, 
 
 ## 🔍 Project Highlights
 
-### 1. [Barcode Vision Mapping System](projects/barcode-vision-system/overview.md)
+### 1. [ROS2 stack in python](projects/barcode-vision-system/overview.md)
+> Communication and networking between the processor and the controller using ros2 humble.
+
+### 2. [Localisation using Ping Echosounders](projects/barcode-vision-system/overview.md)
+> Two 1d-ping-echo sounders were used to calculate and localise the coordinates in the pool environment.
+
+### 3. [Embedded Programming](projects/barcode-vision-system/overview.md)
+> Wrote the teensy 4.1 code for sensor integration and manoeuvring.
+
+### 4. [Stability Algorithm](projects/barcode-vision-system/overview.md)
+> Tuned the PID constants for optimum stability underwater.
+ 
+### 5. [Barcode Vision Mapping System](projects/barcode-vision-system/overview.md)
 > Real-time barcode localization for underwater autonomous navigation using OpenCV and ROS.
 
-### 2. [Joystick Teleoperation System](projects/joystick-teleop-control/overview.md)
+### 6. [Joystick Teleoperation System](projects/joystick-teleop-control/overview.md)
 > Manual override system using ROS Joy and custom teleop nodes for mission safety.
 
-### 3. [IMU + Depth GUI](projects/imu-depth-gui/overview.md)
+### 7. [IMU + Depth GUI](projects/imu-depth-gui/overview.md)
 > A PyQt GUI showing live IMU and pressure sensor data along with camera feed using ROS and OpenCV.
 
 ---
