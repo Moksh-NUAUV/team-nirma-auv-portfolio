@@ -11,7 +11,6 @@ I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, 
 
 
 
-
 ---
 
 ## 🔍 Project Highlights
