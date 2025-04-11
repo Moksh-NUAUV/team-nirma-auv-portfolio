@@ -3,7 +3,14 @@
 Welcome to my robotics and embedded systems portfolio!  
 I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, sensor integration, and real-time control systems using ROS and embedded microcontrollers.
 
-> 2nd Nationally ROBOFEST 3.0 | 1st Nationally - ROBOFEST 4.0 |🏆 2x National ROV Champion | 🌊 Finalist - SAUVC 2024 | 2nd Worldwide – SAUVC 2025
+> 2nd Worldwide – SAUVC 2025
+> Finalist - SAUVC 2024 
+> 2x National AMUROVc Winner
+> 1st Nationally - ROBOFEST 4.0
+> 2nd Nationally ROBOFEST 3.0
+
+
+
 
 ---
 
