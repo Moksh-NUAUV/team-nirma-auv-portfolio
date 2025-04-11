@@ -39,10 +39,11 @@ I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, 
 ---
 
 ## 🏆 Achievements
+- 🥈 2nd Worldwide – SAUVC 2025 (Singapore)
+- Finalists – SAUVC 2024 (Singapore)
 - 🥇 1st Place – AMU National ROV Comp (2023 & 2024)
-- 🥈 2nd Worldwide – SAUVC 2024 (Singapore)
 - 🧪 Developed custom autonomy stack for AUV with sensor fusion and mission execution
-
+- Honored by President of University of Cincinnati
 ---
 
 📫 Feel free to reach out or explore more!
