@@ -15,25 +15,28 @@ I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, 
 
 ## 🔍 Project Highlights
 
-### 1. [ROS2 stack in python](projects/barcode-vision-system/overview.md)
+### 1. [ROS2 stack in python](projects/ros2-stack/overview.md)
 > Communication and networking between the processor and the controller using ros2 humble.
 
-### 2. [Localisation using Ping Echosounders](projects/barcode-vision-system/overview.md)
+### 2. [Localisation using Ping Echosounders](projects/localisation/overview.md)
 > Two 1d-ping-echo sounders were used to calculate and localise the coordinates in the pool environment.
 
-### 3. [Embedded Programming](projects/barcode-vision-system/overview.md)
+### 3. [Embedded Programming](projects/embedded-programming/overview.md)
 > Wrote the teensy 4.1 code for sensor integration and manoeuvring.
 
-### 4. [Stability Algorithm](projects/barcode-vision-system/overview.md)
+### 4. [Stability Algorithm](projects/stability-algorithm/overview.md)
 > Tuned the PID constants for optimum stability underwater.
+
+### 5. [Object Detection Algorithm](projects/object-detection/overview.md)
+> Used YOLOv5 for object detection.
  
-### 5. [Barcode Vision Mapping System](projects/barcode-vision-system/overview.md)
+### 6. [Barcode Vision Mapping System](projects/barcode-vision-system/overview.md)
 > Real-time barcode localization for underwater autonomous navigation using OpenCV and ROS.
 
-### 6. [Joystick Teleoperation System](projects/joystick-teleop-control/overview.md)
-> Manual override system using ROS Joy and custom teleop nodes for mission safety.
+### 7. [Joystick Teleoperation System](projects/joystick-teleop-control/overview.md)
+> Manual override system using pygame and custom teleop nodes for mission safety on jetson nano.
 
-### 7. [IMU + Depth GUI](projects/imu-depth-gui/overview.md)
+### 8. [IMU + Depth GUI](projects/imu-depth-gui/overview.md)
 > A PyQt GUI showing live IMU and pressure sensor data along with camera feed using ROS and OpenCV.
 
 ---
