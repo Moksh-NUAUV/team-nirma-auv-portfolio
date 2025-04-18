@@ -35,10 +35,6 @@ I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, 
 
 ### 7. [Joystick Teleoperation System](projects/joystick-teleop-control/overview.md)
 > Manual override system using pygame and custom teleop nodes for mission safety on jetson nano.
-
-### 8. [IMU + Depth GUI](projects/imu-depth-gui/overview.md)
-> A PyQt GUI showing live IMU and pressure sensor data along with camera feed using ROS and OpenCV.
-
 ---
 
 ## 📸 Highlights
