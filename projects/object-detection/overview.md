@@ -5,7 +5,6 @@ Implemented a fast and reliable **object detection pipeline** using **YOLOv5**, 
 - **📦 YOLOv5 Model**: Trained on a custom dataset of underwater images including gates, markers, and props under varied lighting and turbidity.
 - **🧠 Real-Time Inference**: Runs directly on the **Jetson Nano GPU**, ensuring minimal latency for real-time decision-making.
 - **🔗 ROS 2 Integration**: Detection results published as ROS 2 topics and passed to mission logic nodes for autonomous actions.
-- **🎨 Preprocessing Pipeline**: Applied CLAHE, color correction, and masking to enhance visibility in underwater conditions.
 - **📸 Camera Feed Overlay**: Detected objects annotated live in the PyQt GUI for debugging and operator awareness.
 
 #### 🏁 Outcome
