@@ -9,4 +9,4 @@ Developed a **real-time barcode localization system** that enables the AUV to au
 - **🚀 Autonomous Navigation**: Integrated into mission execution scripts, allowing the AUV to plan paths and complete tasks based on detected barcode positions.
 
 #### 🏁 Outcome
-> The barcode vision system allowed the AUV to **autonomously localize and navigate** to target areas, enhancing task completion accuracy during SAUVC 2025 and improving overall system reliability.
+> The barcode vision system allowed the AUV to **autonomously localize and navigate** to target areas, enhancing task completion accuracy during ROBOFEST 4.0 and improving overall system reliability.
