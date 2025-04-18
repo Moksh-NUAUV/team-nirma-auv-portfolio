@@ -1,12 +1,11 @@
 ### [⚙️ Embedded Programming – Teensy 4.1](#)  
-Developed the low-level firmware for the AUV’s microcontroller using **C/C++ on the Teensy 4.1** platform. This firmware is responsible for real-time control, sensor fusion, and interfacing with the main ROS 2 system.
+Developed low-level control firmware for the AUV using **C/C++ on Teensy 4.1**. This firmware manages real-time sensor communication, motor commands, and interfaces directly with the high-level ROS 2 system running on the main processor.
 
 #### 🔧 Key Capabilities
-- **📡 Sensor Integration**: Interfaced with IMUs (BNO08x), pressure sensors, and motor drivers via I2C, UART, and PWM.
-- **🔁 Feedback Loops**: Processed sensor data onboard and maintained tight control loops for heading, depth, and orientation.
-- **📬 Communication with Processor**: Implemented custom Serial/UDP protocol to receive ROS-based commands and send back telemetry.
-- **🛠️ Fail-Safe Handling**: Designed watchdog timers and fallback behaviors to ensure system safety in case of comms loss or sensor failure.
-- **🎛️ Switchable Modes**: Supported manual override, autonomous control, and hybrid modes based on incoming mission flags.
+- **📡 Sensor Drivers**: Integrated IMU (BNO08x, BNO055, MPU-6050), pressure sensors(BAR-30), and thruster ESCs using UART, I2C, and PWM.
+- **📬 Command Interface**: Custom Serial/UDP protocol for bidirectional communication with Jetson Nano (ROS 2 processor).
+- **🧠 Control Modes**: Implemented autonomous, manual override, and hybrid control logic.
+- **🛡️ Fail-Safe Mechanisms**: Watchdog timers and timeout conditions to trigger safe-stop behavior in case of communication or sensor failure.
 
 #### 🏁 Outcome
-> This firmware provided a **robust control layer** for the AUV, enabling responsive actuation and reliable performance even in noisy underwater environments.
+> Enabled seamless and reliable low-level control of the AUV, with responsive actuation and smooth integration into the broader autonomy stack.
