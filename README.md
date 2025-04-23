@@ -1,6 +1,5 @@
 # team-nirma-auv-portfolio Moksh Kandhari
 
-Welcome to my robotics and embedded systems portfolio!  
 I’m a core team member of **Team Nirma AUV**, where I specialize in autonomy, sensor integration, and real-time control systems using ROS and embedded microcontrollers.
 
 > 🥈 2nd Worldwide – SAUVC 2025  
